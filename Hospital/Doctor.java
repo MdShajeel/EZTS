@@ -1,17 +1,15 @@
 package Hospital;
 
-public class Doctor extends Person
-{
-	    private String speciallity;
-	    public Doctor(String str,int a,String g,String d) 
-	    {
-	        super(str,a,g);
-	        this.speciallity= d;
-	    }
-	    void docdisplay() 
-	    {
-	    	super.perdisplay();
-	        System.out.println("Disease=" + this.speciallity);
-	    }
+public class Doctor extends Person {
+    private String specialization;
 
+    public Doctor(String name, int age, String gender, String specialization) {
+        super(name, age, gender);
+        this.specialization = specialization;
+    }
+
+    void display() {
+        super.display();
+        System.out.println("Specialization: " + this.specialization);
+    }
 }
