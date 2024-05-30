@@ -1,4 +1,4 @@
-package Vec;
+package Vehicle;
 public class Bike extends Vehicle {
     String ti;
 
