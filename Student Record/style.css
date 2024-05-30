@@ -1,0 +1,15 @@
+
+.navbar-bg-primary
+{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    background-color:bisque;
+    
+}
+.table{
+    border: 1px solid black;
+}
+.edu{
+    padding-left: 250px ;
+    background-color: aliceblue;
+}
