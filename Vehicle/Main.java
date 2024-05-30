@@ -1,4 +1,4 @@
-package Vec;
+package Vehicle;
 import java.util.*;
 public class Main {
 
