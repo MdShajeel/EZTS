@@ -1,0 +1,23 @@
+.navbar-bg-pri{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    background-color:azure;
+}
+.name
+{
+    padding: 20px 20px 20px 20px;
+    background-color:bisque;
+    
+}
+.table{
+    border: 1px solid black;
+}
+.edu{
+    padding: 20px 20px 20px 20px;
+    background-color: aliceblue;
+
+}
+.navbar-lan{
+    padding: 20px 20px 20px 20px;
+    background-color:antiquewhite;
+}
