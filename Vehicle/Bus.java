@@ -1,4 +1,4 @@
-package Vec;
+package Vehicle;
 
 public class Bus extends Vehicle {
     private int se;
